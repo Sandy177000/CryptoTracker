@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CryptoTracker/static/css/main.f93e913f.css",
+    "main.js": "/CryptoTracker/static/js/main.0d99e7d0.js",
+    "static/media/background.jpg": "/CryptoTracker/static/media/background.c1f5d3ba7e204fce8a5e.jpg",
+    "static/media/iphone.png": "/CryptoTracker/static/media/iphone.080029ada53f0cd57453.png",
+    "static/media/gradient.png": "/CryptoTracker/static/media/gradient.12a666ed10b3b442b534.png",
+    "index.html": "/CryptoTracker/index.html",
+    "main.f93e913f.css.map": "/CryptoTracker/static/css/main.f93e913f.css.map",
+    "main.0d99e7d0.js.map": "/CryptoTracker/static/js/main.0d99e7d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f93e913f.css",
+    "static/js/main.0d99e7d0.js"
+  ]
+}
