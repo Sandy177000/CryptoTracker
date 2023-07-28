@@ -1,6 +1,4 @@
-# [CryptoTracker](
-https://cryptotracker100.netlify.app/)
-
+# [CryptoTracker](https://cryptotracker100.netlify.app/)
 Welcome to CryptoTracker, your one-stop destination for real-time cryptocurrency tracking and analysis! This website is powered by the Coin Gecko API, providing you with the latest and most accurate data on thousands of cryptocurrencies in the market.
 
 1. Compare Option:
@@ -19,11 +17,11 @@ Integrated the animations using Framer Motion to ensure smooth and visually appe
 This website is built using Material-UI (MUI) library, ensuring a consistent and modern design language. MUI provides a sleek and responsive user interface that adapts seamlessly to various devices, allowing you to access CryptoTracker from your desktop, tablet, or smartphone.
 
 # Tools and libraries:
-React
-MUI
-Framer Motion
-Chart.js
-API-[Coin gecko]([url](https://www.coingecko.com/))
+1. React
+2. MUI
+3. Framer Motion
+4. Chart.js
+5. API-[Coin gecko]([url](https://www.coingecko.com/))
 
 ![Home](https://github.com/Sandy177000/CryptoTracker/assets/112424645/f79250bc-787b-41ab-b575-104f0b230771)
 ![Dashboard](https://github.com/Sandy177000/CryptoTracker/assets/112424645/ea4d50a8-0391-49ca-9e13-d86c26202989)
